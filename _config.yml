@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr. Thomas Tunstall"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "A mathematical physicist who enjoys all manner of computational and mathematical modelling."
   location         : "London, UK"
   employer         : "University of Exeter"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ThomasTunstall"
+  github           : "tt386"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
