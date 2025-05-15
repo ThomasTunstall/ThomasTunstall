@@ -9,6 +9,6 @@ venue: 'Physical Review E'
 slidesurl: ''
 paperurl: 'http://ThomasTunstall.github.io/files/PhysRevE.108.044401.pdf'
 bibtexurl: 'http://ThomasTunstall.github.io/files/PhysRevE.108.044401.bib'
-citation: 'Tunstall, T., Rogers, T. and Möbius, W. (2023). &quot;Assisted percolation of slow-spreading mutants in heterogeneous environments.&quot; <i>Physical Review E, 108(4), p.044401.</i>. 1(1).'
+citation: 'Tunstall, T. Rogers, T. and Möbius, W. (2023). &quot;Assisted percolation of slow-spreading mutants in heterogeneous environments.&quot; <i>Physical Review E, 108(4), p.044401.</i>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
