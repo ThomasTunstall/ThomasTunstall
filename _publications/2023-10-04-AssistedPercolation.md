@@ -8,7 +8,7 @@ venue: 'Physical Review E'
 paperurl: 'https://doi.org/10.1103/PhysRevE.108.044401'
 ---
 
-JUst wondering
+Thomas Tunstall, Tim Rogers, and Wolfram Möbius
 
 ## Abstract
 Environmental heterogeneity can drive genetic heterogeneity in expanding populations; mutant strains may emerge that trade overall growth rate for an improved ability to survive in patches that are hostile to the wild type. This evolutionary dynamic is of practical importance when seeking to prevent the emergence of damaging traits. We show that a subcritical slow-spreading mutant can attain dominance even when the density of patches is below their percolation threshold and predict this transition using geometrical arguments. This work demonstrates a phenomenon of “assisted percolation”, where one subcritical process assists another to achieve supercriticality.
