@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Mathematics with Physical Applications Problem Class Leader"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2020ProblemsClass
+venue: "University of Exeter"
+date: 2020-09-25
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Leading problem classes for [second year physics students](https://newton.ex.ac.uk/handbook/PHY/modules/PHY2025.html), both in-person and remotely due to Covid concerns. Included marking problems, leading hour-long workshops to explore common mistakes, and developing more examples.
 
-Heading 1
-======
+Subjects covered:
+- probability theory, 
+- Lagrangian dynamics,
+- linear PDEs,
+- linear algebra.
 
-Heading 2
-======
-
-Heading 3
-======
