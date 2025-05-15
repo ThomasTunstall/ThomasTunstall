@@ -22,7 +22,7 @@ repository               : "ThomasTunstall.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "websiteprofile.jpg"
   name             : "Dr. Thomas Tunstall"
   pronouns         : "he/him"  
   bio              : "A mathematical physicist who enjoys all manner of computational and mathematical modelling."
