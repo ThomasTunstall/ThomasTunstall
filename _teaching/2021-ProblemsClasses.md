@@ -7,7 +7,7 @@ venue: "University of Exeter"
 date: 2021-09-25
 ---
 
-Leading problem classes for first year physics students. Included marking problems, leading hour-long workshops to explore common mistakes, and developing more examples.
+Leading problem classes for [first year physics students](https://newton.ex.ac.uk/handbook/modules/PHY1025.html). Included marking problems, leading hour-long workshops to explore common mistakes, and developing more examples.
 
 Subjects covered:
 - algebra,
