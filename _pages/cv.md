@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Please view my CV <a href="../files/Thomas_Tunstall_CV_2025.pdf" target="_blank">here.</a>
+
+<!---
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -62,3 +66,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+--->
