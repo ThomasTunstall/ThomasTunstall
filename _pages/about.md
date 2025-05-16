@@ -11,7 +11,7 @@ I am a mathematical and computational modeller, with particular interests in evo
 
 I am currently a postdoctoral research fellow at the University of Exeter, working with [Professor Krasimira Tsaneva-Atanasova](https://experts.exeter.ac.uk/23135-krasimira-tsaneva) to study the phase diagrams of various models of cardiomyocyte, and with [Dr Stefano Pagliara](https://www.exeter.ac.uk/research/amr/academicprofiles/stefanopagliara/) to mdodel the growth of bacteria in coculture, in both open and closed systems.
 
-My PhD in Physics, working under [Dr Wolfram Möbius](https://lsi.exeter.ac.uk/member/dr-wolfram-moebius/), was entitled `Evolution in the face of spatial heterogeneity', where I constructed a variety of models to capture computationally and mathematically the manner in which evolution is shaped by environments which are spatially and temporally heterogeneous. 
+My PhD in Physics, working under [Dr Wolfram Möbius](https://lsi.exeter.ac.uk/member/dr-wolfram-moebius/), was entitled `Evolution in the face of spatial heterogeneity', where I constructed a variety of models to capture computationally and mathematically the manner in which evolution is shaped by environments which are spatially and temporally heterogeneous. During this time I worked with [Dr Philip Madgwick](https://www.linkedin.com/in/philip-madgwick-b4308113b/?originalSubdomain=uk) and [Dr Ricardo Kanitz](https://www.linkedin.com/in/ricardokanitz/?originalSubdomain=ch) during an industrial placement at Syngenta Crop Protection, where I helped develop a mathematical method for estimating the rate of resistance emergence in pests populations subject to pesticide and developed an understanding of industrial research practices. 
 
 <!---
 A data-driven personal website
