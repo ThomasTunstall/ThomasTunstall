@@ -2,8 +2,8 @@
 title: "Minimising pesticide resistance emergence through varying the size of regions within which pesticides are applied: from complex to toy models"
 collection: talks
 type: "Poster"
-permalink: /talks/2022_ECMBT
-venue: "ECMBT, Heidelberg"
+permalink: /talks/2022_ECMTB
+venue: "ECMTB, Heidelberg"
 date: 2022-09-19
 location: "Heidelberg, Germany"
 ---
