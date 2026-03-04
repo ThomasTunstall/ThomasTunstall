@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/TuningSpatialDistributions
 date: 2026-03-04
 venue: 'Journal of Theoretical Population Biology'
-paperurl: '[https://doi.org/10.1101/2024.10.23.619847](https://www.sciencedirect.com/science/article/pii/S0040580926000110?dgcid=coauthor)'
+paperurl: 'https://doi.org/10.1101/2024.10.23.619847'
 ---
 
 Thomas Tunstall, Philip G. Madgwick, Ricardo Kanitz, and Wolfram Möbius
