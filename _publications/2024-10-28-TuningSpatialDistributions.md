@@ -1,11 +1,11 @@
 ---
 title: "Tuning Spatial Distributions of Selection Pressure to Suppress Emergence of Resistance"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/TuningSpatialDistributions
-date: 2024-10-28
-venue: 'bioRXiv'
-paperurl: 'https://doi.org/10.1101/2024.10.23.619847'
+date: 2026-03-04
+venue: 'Journal of Theoretical Population Biology'
+paperurl: '[https://doi.org/10.1101/2024.10.23.619847](https://www.sciencedirect.com/science/article/pii/S0040580926000110?dgcid=coauthor)'
 ---
 
 Thomas Tunstall, Philip G. Madgwick, Ricardo Kanitz, and Wolfram Möbius
